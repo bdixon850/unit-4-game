@@ -25,8 +25,8 @@ ul {
 	text-indent: 20px;
 }
 /* Specfic Elements*/
-div.header, div.gems{
-	background-color: #e0e0eb;
+div.header {
+	background-color: orangered;
 }
 div.header, div.instructions{
 	width: 50%;
@@ -45,19 +45,7 @@ div.header, div.instructions{
 	clear: both;
 }
 .gemImage{
-	height: 60px;
-	margin: 10px;
-}
-/* IDs */
-#blue{
-	color: #3092c7;
-}
-#green{
-	color: #00aa59;
-}
-#red{
-	color: #ec4b5f;
-}
-#yellow{
-	color: #ffc225;
+	height: 40px;
+	margin: 5px;
+	background-color: white;
 }
